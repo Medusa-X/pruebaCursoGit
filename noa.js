@@ -7,8 +7,8 @@ class user
         this.pasword = p;
         this.age = a;
     }
-    manage()
+    manage(dewgpjjjjjjjjjjjj)
     {
-        
+        n,c,p,a 
     }
 }
