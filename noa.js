@@ -7,6 +7,7 @@ class user
         this.pasword = p;
         this.age = a;
     }
+
     manage(n,c,p,a,b)
     {
         this.nombre = n;
@@ -16,6 +17,12 @@ class user
         this.baneo = b; 
     }
     friend(n,c,p)
+    {
+        this.nombre = n;
+        this.correo = c;
+        this.pasword = p;
+    }
+    visita(n,c,p)
     {
         this.nombre = n;
         this.correo = c;
